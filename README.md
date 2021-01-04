@@ -17,22 +17,22 @@ ___
 # 📹 Video
 ⏩ - 2x
 <br><br>
-![default](https://github.com/YashikGarg/Chess_game/blob/main/sample%20images/sample.gif)
+<img src="sample images/sample.gif" width="80%" >
 ___
 
 # 📸 Screenshots
 
-<img src="sample images/6.png" width="80%" >
+<img src="sample images/6.png" width="600" >
 
-<img src="sample images/5.png" width="80%" >
+<img src="sample images/5.png" width="600" >
 
-<img src="sample images/4.png" width="80%" >
+<img src="sample images/4.png" width="600" >
 
-<img src="sample images/3.png" width="80%" >
+<img src="sample images/3.png" width="600" >
 
-<img src="sample images/2.png" width="80%" >
+<img src="sample images/2.png" width="600" >
 
-<img src="sample images/1.png" width="80%" >
+<img src="sample images/1.png" width="600" >
 
 ___
 
