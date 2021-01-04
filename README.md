@@ -36,6 +36,6 @@ ___
 
 ___
 
-> if you 💓 my work please drop a ⭐ 😉
+> if you ♥ my work please drop a ⭐ 😉
 
 ___
